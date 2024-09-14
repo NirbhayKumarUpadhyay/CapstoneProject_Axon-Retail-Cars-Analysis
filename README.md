@@ -85,7 +85,7 @@ For additional guidance and inspiration, I referred to the following references:
 
 To conclude the project, I provided the following deliverables:
 
-- [Documented report](Axon Sales Analysis Report.pdf) in Word or PDF format.
+- [Documented report](Axon_Sales_Analysis_Report.pdf) in Word or PDF format.
 - [SQL files](Axon_Sales_Analysis.sql) detailing data transformations and analytics.
 - [Power BI report](https://app.powerbi.com/view?r=eyJrIjoiNDI4YWUzMWQtZjczYS00OWY3LTg5ODktNDJjZWNiNjliNzY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) showcasing interactive dashboards, reports, and data modeling.
 
