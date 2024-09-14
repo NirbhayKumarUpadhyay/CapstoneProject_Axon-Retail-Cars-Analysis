@@ -30,7 +30,7 @@ The success of the project was measured by the effectiveness of the BI solution 
 3. **Data Loading:** The cleaned and modeled data was loaded into PowerBI using appropriate features, and I meticulously documented all data loading and transformation steps.
  
 4. **Data Modeling:** To optimize data structure for analysis, I created a data model within PowerBI, establishing relationships between tables.
-   <img width="871" alt="Screenshot 2023-09-20 235339" src="">
+   <img width="871" alt="Screenshot 2023-09-20 235339" src="https://github.com/user-attachments/assets/822509bf-c59b-409c-941c-56685a9db591">
 
 5. **Dashboard Design:** Crafting interactive dashboards and reports in PowerBI was a key part of the project. I incorporated charts, graphs, and tables to visualize data and used DAX functions for data analysis.
 
@@ -65,12 +65,12 @@ To successfully complete the Capstone project, I employed the following tools an
 
 - Overall view
   
-  <img width="577" alt="Screenshot 2023-09-26 224839" src="">
+  <img width="577" alt="Screenshot 2023-09-26 224839" src="https://github.com/user-attachments/assets/109b2c69-0143-42c3-9d1c-4e1b981a16dd">
 
 
 - Performance view
 
-  <img width="580" alt="Screenshot 2023-09-26 224945" src="">
+  <img width="580" alt="Screenshot 2023-09-26 224945" src="https://github.com/user-attachments/assets/25994138-e102-4c14-99ea-07fa5628c511">
 
  
 ## References
@@ -85,8 +85,8 @@ For additional guidance and inspiration, I referred to the following references:
 
 To conclude the project, I provided the following deliverables:
 
-- [Documented report]() in Word or PDF format.
-- [SQL files]() detailing data transformations and analytics.
+- [Documented report](Axon Sales Analysis Report.pdf) in Word or PDF format.
+- [SQL files](Axon_Sales_Analysis.sql) detailing data transformations and analytics.
 - [Power BI report](https://app.powerbi.com/view?r=eyJrIjoiNDI4YWUzMWQtZjczYS00OWY3LTg5ODktNDJjZWNiNjliNzY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) showcasing interactive dashboards, reports, and data modeling.
 
 **Note:** Clear documentation of the entire process was provided to facilitate adoption and project success.
